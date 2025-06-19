@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Assertion",
-  "id": "https://hectorsdata.github.io/badges/assertions/Carlos_Perez.json",
+  "id": "https://hectorsdata.github.io/badges/assertions/Carlos_Perez_assertion.json",
   "recipient": {
     "type": "email",
     "hashed": true,
