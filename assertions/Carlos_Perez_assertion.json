@@ -1,0 +1,33 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://hectorsdata.github.io/badges/assertions/Carlos_Perez.json",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "badge2025",
+    "identity": "sha256$1bbd07c33d7f1e7f452df5626af08e186fafe63092fb0b8de53f1a1bfca6d674"
+  },
+  "issuedOn": "2025-06-19T04:19:09.480241",
+  "badge": {
+    "@context": "https://w3id.org/openbadges/v2",
+    "type": "BadgeClass",
+    "id": "https://example.org/badges/curso-ejemplo.json",
+    "name": "Curso de Credenciales Digitales",
+    "description": "Participación activa y aprobación del taller.",
+    "criteria": {
+      "narrative": "Participó en el taller impartido el 25 de junio de 2025."
+    },
+    "issuer": {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "Issuer",
+      "id": "https://example.org/issuer.json",
+      "name": "Universidad Galileo",
+      "url": "https://www.galileo.edu",
+      "email": "info@galileo.edu"
+    }
+  },
+  "verification": {
+    "type": "HostedBadge"
+  }
+}
