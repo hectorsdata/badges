@@ -8,11 +8,11 @@
     "salt": "badge2025",
     "identity": "sha256$1bbd07c33d7f1e7f452df5626af08e186fafe63092fb0b8de53f1a1bfca6d674"
   },
-  "issuedOn": "2025-06-19T04:19:09.480241",
+  "issuedOn": "2025-06-19T04:39:39.242694+00:00",
   "badge": {
     "@context": "https://w3id.org/openbadges/v2",
     "type": "BadgeClass",
-    "id": "https://example.org/badges/curso-ejemplo.json",
+    "id": "https://hectorsdata.github.io/badges/curso-ejemplo.json",
     "name": "Curso de Credenciales Digitales",
     "description": "Participación activa y aprobación del taller.",
     "criteria": {
@@ -21,11 +21,12 @@
     "issuer": {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "Issuer",
-      "id": "https://example.org/issuer.json",
+      "id": "https://hectorsdata.github.io/badges/issuer.json",
       "name": "Universidad Galileo",
       "url": "https://www.galileo.edu",
       "email": "info@galileo.edu"
-    }
+    },
+    "image": "https://hectorsdata.github.io/badges/curso-ejemplo.png"
   },
   "verification": {
     "type": "HostedBadge"
