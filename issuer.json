@@ -1,0 +1,10 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Issuer",
+  "id": "https://hectorsdata.github.io/badges/issuer.json",
+  "name": "Universidad Galileo",
+  "url": "https://www.galileo.edu",
+  "email": "info@galileo.edu",
+  "description": "Emisor oficial de credenciales digitales del taller.",
+  "image": "https://hectorsdata.github.io/badges/logo-galileo.png"
+}

@@ -1,0 +1,12 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://hectorsdata.github.io/badges/curso-ejemplo.json",
+  "name": "Curso de Credenciales Digitales",
+  "description": "Reconocimiento por completar el taller de introducción técnica a la implementación de credenciales digitales.",
+  "image": "https://hectorsdata.github.io/badges/curso-ejemplo.png",
+  "criteria": {
+    "narrative": "El participante ha asistido activamente al taller impartido el 25 de junio de 2025 y ha completado las actividades de aprendizaje."
+  },
+  "issuer": "https://hectorsdata.github.io/badges/issuer.json"
+}
